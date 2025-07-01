@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning,Deep learning and IOT.
+- 🔭 I’m currently working on Machine Learning,Deep learning and Multi Agentic Chatbots.Also i'm proficient in Voice to Test and Voice to Voice chatbots.
 
 - 👨‍💻 All of my projects are available at [[https://github.com/MuhammadBilal018?tab=projects](https://github.com/MuhammadBilal018?tab=projects)](https://github.com/MuhammadBilal018?tab=projects)
 
